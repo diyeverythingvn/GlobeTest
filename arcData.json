@@ -130,5 +130,104 @@
 	"eCap": "Paris",
 	"eLat": 48.86666667,
 	"eLon": 2.333333
+},
+{
+	"label" : "13",
+	"sCou": "Germany",
+	"sCap": "Berlin",
+	"sLat": 52.51666667,
+	"sLon": 13.4,
+	"eCou": "Greece",
+	"eCap": "Athens",
+	"eLat": 37.98333333,
+	"eLon": 23.733333
+},
+{
+	"label" : "14",
+	"sCou": "Guatemala",
+	"sCap": "Guatemala City",
+	"sLat": 14.61666667,
+	"sLon": -90.516667,
+	"eCou": "Hong Kong",
+	"eCap": "Hong Kong",
+	"eLat": 22.302711,
+	"eLon": 114.177216
+},
+{
+	"label" : "15",
+	"sCou": "Hungary",
+	"sCap": "Budapest",
+	"sLat": 47.5,
+	"sLon": 19.083333,
+	"eCou": "Iceland",
+	"eCap": "Reykjavik",
+	"eLat": 64.15,
+	"eLon": -21.95
+},
+{
+	"label" : "16",
+	"sCou": "India",
+	"sCap": "New Delhi",
+	"sLat": 28.6,
+	"sLon": 77.2,
+	"eCou": "Indonesia",
+	"eCap": "Jakarta",
+	"eLat": -6.166666667,
+	"eLon": 106.816667
+},
+{
+	"label" : "17",
+	"sCou": "Iraq",
+	"sCap": "Baghdad",
+	"sLat": 33.33333333,
+	"sLon": 44.4,
+	"eCou": "Ireland",
+	"eCap": "Dublin",
+	"eLat": 53.31666667,
+	"eLon": -6.233333
+},
+{
+	"label" : "18",
+	"sCou": "Israel",
+	"sCap": "Jerusalem",
+	"sLat": 31.76666667,
+	"sLon": 35.233333,
+	"eCou": "Italy",
+	"eCap": "Rome",
+	"eLat": 41.9,
+	"eLon": 12.483333
+},
+{
+	"label" : "19",
+	"sCou": "Japan",
+	"sCap": "Tokyo",
+	"sLat": 35.68333333,
+	"sLon": 139.75,
+	"eCou": "Jordan",
+	"eCap": "Amman",
+	"eLat": 31.95,
+	"eLon": 35.933333
+},
+{
+	"label" : "20",
+	"sCou": "Kazakhstan",
+	"sCap": "Astana",
+	"sLat": 51.16666667,
+	"sLon": 71.416667,
+	"eCou": "Kenya",
+	"eCap": "Nairobi",
+	"eLat": -1.283333333,
+	"eLon": 36.816667
+},
+{
+	"label" : "21",
+	"sCou": "Latvia",
+	"sCap": "Riga",
+	"sLat": 56.95,
+	"sLon": 24.1,
+	"eCou": "Lebanon",
+	"eCap": "Beirut",
+	"eLat": 33.86666667,
+	"eLon": 35.5
 }
 ]
