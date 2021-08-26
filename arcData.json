@@ -1,20 +1,20 @@
 [
 {
 	"label" : "1",
-	"sPoint": "Andorra la Vella",
-	"sLat": 42.5,
-	"sLon": 1.516667,
-	"ePoint": "Abu Dhabi",
-	"eLat": 24.4666666666666,
-	"eLon": 54.366667
+	"sPoint": "Abu Dhabi",
+	"sLat": 24.46666667,
+	"sLon": 54.366667,
+	"ePoint": "Abuja",
+	"eLat": 9.083333333,
+	"eLon": 7.533333
 },
 {
 	"label" : "2",
-	"sPoint": "Kabul",
-	"sLat": 34.5166666666666,
-	"sLon": 69.183333,
-	"ePoint": "Saint John's",
-	"eLat": 17.1166666666666,
-	"eLon": -61.85
+	"sPoint": "Accra",
+	"sLat": 5.55,
+	"sLon": -0.216667,
+	"ePoint": "Adamstown",
+	"eLat": -25.06666667,
+	"eLon": -130.083333
 }
 ]
