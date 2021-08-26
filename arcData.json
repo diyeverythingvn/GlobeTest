@@ -22,17 +22,17 @@
 	"sPoint": "Addis Ababa",
 	"sLat": 9.033333333,
 	"sLon": 38.7,
-	"ePoint": "	Algiers",
+	"ePoint": "Algiers",
 	"eLat": 36.75,
 	"eLon": 3.05
 },
 {
 	"label" : "4",
 	"sPoint": "Alofi",
-	"sLat": -19.01666667	,
+	"sLat": -19.01666667,
 	"sLon": -169.916667,
 	"ePoint": "Amman",
-	"eLat": 31.95	,
+	"eLat": 31.95,
 	"eLon": 35.933333
 },
 {
@@ -56,10 +56,10 @@
 {
 	"label" : "7",
 	"sPoint": "Apia",
-	"sLat": -13.81666667	,
+	"sLat": -13.81666667,
 	"sLon": -171.766667,
 	"ePoint": "Ashgabat",
 	"eLat": 37.95,
 	"eLon": 58.383333
 }
-]
+	]
