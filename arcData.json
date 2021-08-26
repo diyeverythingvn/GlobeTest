@@ -8,13 +8,4 @@
 	"eLat": 9.083333333,
 	"eLon": 7.533333
 },
-{
-	"label" : "2",
-	"sPoint": "Accra",
-	"sLat": 5.55,
-	"sLon": -0.216667,
-	"ePoint": "Adamstown",
-	"eLat": -25.06666667,
-	"eLon": -130.083333
-}
-	]
+]
