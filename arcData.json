@@ -229,5 +229,93 @@
 	"eCap": "Beirut",
 	"eLat": 33.86666667,
 	"eLon": 35.5
+},
+{
+	"label" : "22",
+	"sCou": "Hawaii",
+	"sCap": "Hawaii",
+	"sLat": 19.741755,
+	"sLon": -155.844437,
+	"eCou": "Lithuania",
+	"eCap": "Vilnius",
+	"eLat": 54.68333333,
+	"eLon": 25.316667
+},
+{
+	"label" : "23",
+	"sCou": "Malaysia",
+	"sCap": "Kuala Lumpur",
+	"sLat": 3.166666667,
+	"sLon": 101.7,
+	"eCou": "Laos",
+	"eCap": "Vientiane",
+	"eLat": 17.974855,
+	"eLon": 102.630867
+},
+{
+	"label" : "24",
+	"sCou": "Mexico",
+	"sCap": "Mexico City",
+	"sLat": 19.43333333,
+	"sLon": -99.133333,
+	"eCou": "Morocco",
+	"eCap": "Rabat",
+	"eLat": 34.01666667,
+	"eLon": -6.816667
+},
+{
+	"label" : "25",
+	"sCou": "Myanmar",
+	"sCap": "Rangoon",
+	"sLat": 16.8,
+	"sLon": 96.15,
+	"eCou": "New Zealand",
+	"eCap": "Wellington",
+	"eLat": -41.3,
+	"eLon": 174.783333
+},
+{
+	"label" : "26",
+	"sCou": "Norway",
+	"sCap": "Oslo",
+	"sLat": 59.91666667,
+	"sLon": 10.75,
+	"eCou": "Oman",
+	"eCap": "Muscat",
+	"eLat": 23.61666667,
+	"eLon": 58.583333
+},
+{
+	"label" : "27",
+	"sCou": "Panama",
+	"sCap": "Panama City",
+	"sLat": 8.966666667,
+	"sLon": -79.533333,
+	"eCou": "Peru",
+	"eCap": "Lima",
+	"eLat": -12.05,
+	"eLon": -77.05
+},
+{
+	"label" : "28",
+	"sCou": "Philippines",
+	"sCap": "Manila",
+	"sLat": 14.6,
+	"sLon": 120.966667,
+	"eCou": "Poland",
+	"eCap": "Warsaw",
+	"eLat": 52.25,
+	"eLon": 21
+},
+{
+	"label" : "29",
+	"sCou": "Portugal",
+	"sCap": "Lisbon",
+	"sLat": 38.71666667,
+	"sLon": -9.133333,
+	"eCou": "Qatar",
+	"eCap": "Doha",
+	"eLat": 25.28333333,
+	"eLon": 51.533333
 }
 ]
