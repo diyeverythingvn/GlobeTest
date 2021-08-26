@@ -1,29 +1,24 @@
 [
 {
 	"label" : "1",
-	"sPoint": "Abu Dhabi",
-	"sLat": 24.46666667,
-	"sLon": 54.366667,
-	"ePoint": "Abuja",
-	"eLat": 9.083333333,
-	"eLon": 7.533333
+	"sCou": "Argentina",
+	"sCap": "Buenos Aires",
+	"sLat": -34.58333333,
+	"sLon": -58.666667,
+	"eCou": "Australia",
+	"eCap": "Canberra",
+	"eLat": -35.26666667,
+	"eLon": 149.133333
 },
 {
 	"label" : "2",
-	"sPoint": "Accra",
-	"sLat": 5.55,
-	"sLon": -0.216667,
-	"ePoint": "Adamstown",
-	"eLat": -25.06666667,
-	"eLon": -130.083333
-},
-{
-	"label" : "3",
-	"sPoint": "Addis Ababa",
-	"sLat": 9.033333333,
-	"sLon": 38.7,
-	"ePoint": "Algiers",
-	"eLat": 36.75,
-	"eLon": 3.05
+	"sCou": "Austria",
+	"sCap": "Vienna",
+	"sLat": 48.2,
+	"sLon": 16.366667,
+	"eCou": "Azerbaijan",
+	"eCap": "Baku",
+	"eLat": 40.38333333,
+	"eLon": 49.866667
 }
 ]
