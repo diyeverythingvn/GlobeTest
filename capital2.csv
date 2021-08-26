@@ -1,0 +1,75 @@
+,CountryName,CapitalName,CapitalLatitude,CapitalLongitude,CountryCode,ContinentName
+42,Argentina,Buenos Aires,-34.58333333,-58.666667,AR,South America
+5,Australia,Canberra,-35.26666667,149.133333,AU,Australia
+21,Austria,Vienna,48.2,16.366667,AT,Europe
+66,Azerbaijan,Baku,40.38333333,49.866667,AZ,Europe
+75,Belarus,Minsk,53.9,27.566667,BY,Europe
+20,Belgium,Brussels,50.83333333,4.333333,BE,Europe
+26,Brazil,Brasilia,-15.78333333,-47.916667,BR,South America
+61,Bulgaria,Sofia,42.68333333,23.316667,BG,Europe
+1,Canada,Ottawa,45.41666667,-75.7,CA,Central America
+49,Chile,Santiago,-33.45,-70.666667,CL,South America
+79,China,Beijing,39.91666667,116.383333,CN,Asia
+55,Colombia,Bogota,4.6,-74.083333,CO,South America
+39,Costa Rica,San Jose,9.933333333,-84.083333,CR,Central America
+46,Croatia,Zagreb,45.8,16,HR,Europe
+80,Cuba,Havana,23.11666667,-82.35,CU,North America
+45,Czech Republic,Prague,50.08333333,14.466667,CZ,Europe
+12,Denmark,Copenhagen,55.66666667,12.583333,DK,Europe
+52,Dominican Republic,Santo Domingo,18.46666667,-69.9,DO,North America
+68,Ecuador,Quito,-0.216666667,-78.5,EC,South America
+33,Egypt,Cairo,30.05,31.25,EG,Africa
+77,El Salvador,San Salvador,13.7,-89.2,SV,Central America
+57,Estonia,Tallinn,59.43333333,24.716667,EE,Europe
+18,Finland,Helsinki,60.16666667,24.933333,FI,Europe
+11,France,Paris,48.86666667,2.333333,FR,Europe
+3,Germany,Berlin,52.51666667,13.4,DE,Europe
+27,Greece,Athens,37.98333333,23.733333,GR,Europe
+69,Guatemala,Guatemala City,14.61666667,-90.516667,GT,Central America
+81,Hong Kong,Hong Kong,22.302711,114.177216,HK,Asia
+48,Hungary,Budapest,47.5,19.083333,HU,Europe
+82,Iceland,Reykjavik,64.15,-21.95,IS,Europe
+25,India,New Delhi,28.6,77.2,IN,Asia
+37,Indonesia,Jakarta,-6.166666667,106.816667,ID,Asia
+78,Iraq,Baghdad,33.33333333,44.4,IQ,Asia
+23,Ireland,Dublin,53.31666667,-6.233333,IE,Europe
+30,Israel,Jerusalem,31.76666667,35.233333,IL,Asia
+16,Italy,Rome,41.9,12.483333,IT,Europe
+2,Japan,Tokyo,35.68333333,139.75,JP,Asia
+56,Jordan,Amman,31.95,35.933333,JO,Asia
+72,Kazakhstan,Astana,51.16666667,71.416667,KZ,Asia
+53,Kenya,Nairobi,-1.283333333,36.816667,KE,Africa
+64,Latvia,Riga,56.95,24.1,LV,Europe
+74,Lebanon,Beirut,33.86666667,35.5,LB,Asia
+67,Lithuania,Vilnius,54.68333333,25.316667,LT,Europe
+36,Malaysia,Kuala Lumpur,3.166666667,101.7,MY,Asia
+31,Mexico,Mexico City,19.43333333,-99.133333,MX,Central America
+38,Morocco,Rabat,34.01666667,-6.816667,MA,Africa
+58,Myanmar,Rangoon,16.8,96.15,MM,Asia
+10,New Zealand,Wellington,-41.3,174.783333,NZ,Australia
+13,Norway,Oslo,59.91666667,10.75,NO,Europe
+70,Oman,Muscat,23.61666667,58.583333,OM,Asia
+51,Panama,Panama City,8.966666667,-79.533333,PA,Central America
+50,Peru,Lima,-12.05,-77.05,PE,South America
+44,Philippines,Manila,14.6,120.966667,PH,Asia
+43,Poland,Warsaw,52.25,21,PL,Europe
+29,Portugal,Lisbon,38.71666667,-9.133333,PT,Europe
+32,Qatar,Doha,25.28333333,51.533333,QA,Asia
+63,Romania,Bucharest,44.43333333,26.1,RO,Europe
+24,Russia,Moscow,55.75,37.6,RU,Europe
+76,Serbia,Belgrade,44.83333333,20.5,RS,Europe
+14,Singapore,Singapore,1.283333333,103.85,SG,Asia
+41,South Africa,Pretoria,-25.7,28.216667,ZA,Africa
+15,South Korea,Seoul,37.55,126.983333,KR,Asia
+19,Spain,Madrid,40.4,-3.683333,ES,Europe
+47,Sri Lanka,Colombo,6.916666667,79.833333,LK,Asia
+4,Switzerland,Bern,46.91666667,7.466667,CH,Europe
+28,Thailand,Bangkok,13.75,100.516667,TH,Asia
+65,Tunisia,Tunis,36.8,10.183333,TN,Africa
+35,Turkey,Ankara,39.93333333,32.866667,TR,Europe
+71,Ukraine,Kyiv,50.43333333,30.516667,UA,Europe
+22,United Arab Emirates,Abu Dhabi,24.46666667,54.366667,AE,Asia
+6,United States,Washington,38.883333,-77,US,Central America
+59,Uruguay,Montevideo,-34.85,-56.166667,UY,South America
+73,Uzbekistan,Tashkent,41.31666667,69.25,UZ,Asia
+40,Vietnam,Hanoi,21.03333333,105.85,VN,Asia
