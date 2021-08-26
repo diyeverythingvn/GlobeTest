@@ -53,5 +53,82 @@
 	"eCap": "Santiago",
 	"eLat": -33.45,
 	"eLon": -70.666667
+},
+{
+	"label" : "6",
+	"sCou": "China",
+	"sCap": "Beijing",
+	"sLat": 39.91666667,
+	"sLon": 116.383333,
+	"eCou": "Colombia",
+	"eCap": "Bogota",
+	"eLat": 4.6,
+	"eLon": -74.083333
+},
+{
+	"label" : "7",
+	"sCou": "Costa Rica",
+	"sCap": "San Jose",
+	"sLat": 9.933333333,
+	"sLon": -84.083333,
+	"eCou": "Croatia",
+	"eCap": "Zagreb",
+	"eLat": 45.8,
+	"eLon": 16
+},
+{
+	"label" : "8",
+	"sCou": "Cuba",
+	"sCap": "Havana",
+	"sLat": 23.11666667,
+	"sLon": -82.35,
+	"eCou": "Czech Republic",
+	"eCap": "Prague",
+	"eLat": 50.08333333,
+	"eLon": 14.466667
+},
+{
+	"label" : "9",
+	"sCou": "Denmark",
+	"sCap": "Copenhagen",
+	"sLat": 55.66666667,
+	"sLon": 12.583333,
+	"eCou": "Dominican Republic",
+	"eCap": "Santo Domingo",
+	"eLat": 18.46666667,
+	"eLon": -69.9
+},
+{
+	"label" : "10",
+	"sCou": "Ecuador",
+	"sCap": "Quito",
+	"sLat": -0.216666667,
+	"sLon": -78.5,
+	"eCou": "Egypt",
+	"eCap": "Cairo",
+	"eLat": 30.05,
+	"eLon": 31.25
+},
+{
+	"label" : "11",
+	"sCou": "El Salvador",
+	"sCap": "San Salvador",
+	"sLat": 13.7,
+	"sLon": -89.2,
+	"eCou": "Estonia",
+	"eCap": "Tallinn",
+	"eLat": 59.43333333,
+	"eLon": 24.716667
+},
+{
+	"label" : "12",
+	"sCou": "Finland",
+	"sCap": "Helsinki",
+	"sLat": 60.16666667,
+	"sLon": 24.933333,
+	"eCou": "France",
+	"eCap": "Paris",
+	"eLat": 48.86666667,
+	"eLon": 2.333333
 }
 ]
