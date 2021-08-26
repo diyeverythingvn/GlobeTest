@@ -317,5 +317,115 @@
 	"eCap": "Doha",
 	"eLat": 25.28333333,
 	"eLon": 51.533333
+},
+{
+	"label" : "30",
+	"sCou": "Romania",
+	"sCap": "Bucharest",
+	"sLat": 44.43333333,
+	"sLon": 26.1,
+	"eCou": "Russia",
+	"eCap": "Moscow",
+	"eLat": 55.75,
+	"eLon": 37.6
+},
+{
+	"label" : "31",
+	"sCou": "Serbia",
+	"sCap": "Belgrade",
+	"sLat": 44.83333333,
+	"sLon": 20.5,
+	"eCou": "Singapore",
+	"eCap": "Singapore",
+	"eLat": 1.283333333,
+	"eLon": 103.85
+},
+{
+	"label" : "32",
+	"sCou": "South Africa",
+	"sCap": "Pretoria",
+	"sLat": -25.7,
+	"sLon": 28.216667,
+	"eCou": "South Korea",
+	"eCap": "Seoul",
+	"eLat": 37.55,
+	"eLon": 126.983333
+},
+{
+	"label" : "33",
+	"sCou": "Spain",
+	"sCap": "Madrid",
+	"sLat": 40.4,
+	"sLon": -3.683333,
+	"eCou": "Sri Lanka",
+	"eCap": "Colombo",
+	"eLat": 6.916666667,
+	"eLon": 79.833333
+},
+{
+	"label" : "34",
+	"sCou": "Switzerland",
+	"sCap": "Bern",
+	"sLat": 46.91666667,
+	"sLon": 7.466667,
+	"eCou": "Thailand",
+	"eCap": "Bangkok",
+	"eLat": 13.75,
+	"eLon": 100.516667
+},
+{
+	"label" : "35",
+	"sCou": "Tunisia",
+	"sCap": "Tunis",
+	"sLat": 36.8,
+	"sLon": 10.183333,
+	"eCou": "Turkey",
+	"eCap": "Ankara",
+	"eLat": 39.93333333,
+	"eLon": 32.866667
+},
+{
+	"label" : "36",
+	"sCou": "Ukraine",
+	"sCap": "Kyiv",
+	"sLat": 50.43333333,
+	"sLon": 30.516667,
+	"eCou": "United Arab Emirates",
+	"eCap": "Abu Dhabi",
+	"eLat": 24.46666667,
+	"eLon": 54.366667
+},
+{
+	"label" : "37",
+	"sCou": "United States",
+	"sCap": "Washington",
+	"sLat": 38.883333,
+	"sLon": -77,
+	"eCou": "Uruguay",
+	"eCap": "Montevideo",
+	"eLat": -34.85,
+	"eLon": -56.166667
+},
+{
+	"label" : "38",
+	"sCou": "Vietnam",
+	"sCap": "Hanoi",
+	"sLat": 21.03333333,
+	"sLon": 105.85,
+	"eCou": "Vietnam",
+	"eCap": "Ho Chi Minh City",
+	"eLat": 10.762622,
+	"eLon": 106.660172
+},
+{
+	"label" : "39",
+	"sCou": "Vietnam",
+	"sCap": "Ho Chi Minh City",
+	"sLat": 10.762622,
+	"sLon": 106.660172,
+	"eCou": "Uzbekistan",
+	"eCap": "Tashkent",
+	"eLat": 41.31666667,
+	"eLon": 69.25
 }
 ]
