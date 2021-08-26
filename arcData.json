@@ -1,10 +1,10 @@
 [
 {
-	"sPoint":"Somaliland",
-	"sLat":9.55,
-	"sLon":44.050000,
-	"ePoint":"NULL",
-	"eLat":9.55,
-	"eLon":44.050000,
+	"sPoint":"Abu",
+	"sLat":34.5,
+	"sLon":131.6,
+	"ePoint":"Acamarachi",
+	"eLat":-23.3,
+	"eLon":-67.62
 }
 ]
