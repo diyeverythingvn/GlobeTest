@@ -20,5 +20,38 @@
 	"eCap": "Baku",
 	"eLat": 40.38333333,
 	"eLon": 49.866667
+},
+{
+	"label" : "3",
+	"sCou": "Belarus",
+	"sCap": "Minsk",
+	"sLat": 53.9,
+	"sLon": 27.566667,
+	"eCou": "Belgium",
+	"eCap": "Brussels",
+	"eLat": 50.83333333,
+	"eLon": 4.333333
+},
+{
+	"label" : "4",
+	"sCou": "Brazil",
+	"sCap": "Brasilia",
+	"sLat": -15.78333333,
+	"sLon": -47.916667,
+	"eCou": "Bulgaria",
+	"eCap": "Sofia",
+	"eLat": 42.68333333,
+	"eLon": 23.316667
+},
+{
+	"label" : "5",
+	"sCou": "Canada",
+	"sCap": "Ottawa",
+	"sLat": 45.41666667,
+	"sLon": -75.7,
+	"eCou": "Chile",
+	"eCap": "Santiago",
+	"eLat": -33.45,
+	"eLon": -70.666667
 }
 ]
