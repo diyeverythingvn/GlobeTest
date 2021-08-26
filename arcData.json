@@ -16,50 +16,5 @@
 	"ePoint": "Adamstown",
 	"eLat": -25.06666667,
 	"eLon": -130.083333
-},
-{
-	"label" : "3",
-	"sPoint": "Addis Ababa",
-	"sLat": 9.033333333,
-	"sLon": 38.7,
-	"ePoint": "Algiers",
-	"eLat": 36.75,
-	"eLon": 3.05
-},
-{
-	"label" : "4",
-	"sPoint": "Alofi",
-	"sLat": -19.01666667,
-	"sLon": -169.916667,
-	"ePoint": "Amman",
-	"eLat": 31.95,
-	"eLon": 35.933333
-},
-{
-	"label" : "5",
-	"sPoint": "Amsterdam",
-	"sLat": 52.35,
-	"sLon": 4.916667,
-	"ePoint": "Andorra la Vella",
-	"eLat": 42.5,
-	"eLon": 1.516667
-},
-{
-	"label" : "6",
-	"sPoint": "Ankara",
-	"sLat": 39.93333333,
-	"sLon": 32.866667,
-	"ePoint": "Antananarivo",
-	"eLat": -18.91666667,
-	"eLon": 47.516667
-},
-{
-	"label" : "7",
-	"sPoint": "Apia",
-	"sLat": -13.81666667,
-	"sLon": -171.766667,
-	"ePoint": "Ashgabat",
-	"eLat": 37.95,
-	"eLon": 58.383333
 }
 	]
